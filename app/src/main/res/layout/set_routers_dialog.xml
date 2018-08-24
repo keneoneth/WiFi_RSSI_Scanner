@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:id="@+id/setRouters"
+
+        />
+
+    <EditText
+        android:id="@+id/addRouters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/setRouters"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:singleLine="true"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/addRouters"
+        android:textAlignment="center"
+        android:text="confirm"
+        android:textSize="14dp"
+        android:id="@+id/bConfirm"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/addRouters"
+        app:layout_constraintEnd_toEndOf="@id/addRouters"
+        android:textAlignment="center"
+        android:text="clear"
+        android:textSize="14dp"
+        android:id="@+id/bClear"
+        />
+
+
+</android.support.constraint.ConstraintLayout>

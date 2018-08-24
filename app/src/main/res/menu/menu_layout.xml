@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/play_button"
+        android:orderInCategory="100"
+        yourapp:showAsAction="always"
+        android:title="Logout"
+        />
+
+</menu>
