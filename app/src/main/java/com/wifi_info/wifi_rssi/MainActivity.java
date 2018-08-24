@@ -142,15 +142,12 @@ public class MainActivity extends AppCompatActivity{
 
         //TODO: Add default mac addresses
         if(targetRouters.size() == 0) {
-            targetRouters.add("94:d9:b3:d1:c2:d1");
-            targetRouters.add("94:d9:b3:d1:c2:f5");
-            targetRouters.add("94:d9:b3:d1:c2:3e");
-            targetRouters.add("94:d9:b3:d1:c1:e4");
+            targetRouters.add("aa:aa:aa:aa:aa:aa");
         }
         //TODO: Add default places
         if(placeList.size() == 0){
-            for(int i = 0; i < 17; i++){
-                placeList.add("LC" + String.valueOf(i+1));
+            for(int i = 0; i < 3; i++){
+                placeList.add("Place" + String.valueOf(i+1));
             }
 
         }
