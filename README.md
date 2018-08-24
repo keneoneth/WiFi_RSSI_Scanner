@@ -1,0 +1,1 @@
+A simple Android Application named "WiFi_RSSI_Scanner" which can help users collect WiFi Signal Strength data at different test points. Signal strength filter and mac address filter are included. The signal strength data is automatically output to a CSV file upon the finish of testing.
