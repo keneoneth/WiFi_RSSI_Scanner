@@ -6,5 +6,5 @@ A simple Android Application named "WiFi_RSSI_Scanner" which can help users coll
 ![3](https://user-images.githubusercontent.com/42671855/44587328-38608880-a7e5-11e8-82e6-87fa4210a534.PNG)
 ![4](https://user-images.githubusercontent.com/42671855/44587337-3ac2e280-a7e5-11e8-97ad-6bb7c665bd06.PNG)
 ![5](https://user-images.githubusercontent.com/42671855/44587341-3d253c80-a7e5-11e8-960e-ef513f686293.PNG)
-![6](https://user-images.githubusercontent.com/42671855/44613739-d9355f00-a84a-11e8-8cde-ead1e0f425c7.PNG)
+![6](https://user-images.githubusercontent.com/42671855/44613758-1ac60a00-a84b-11e8-93f9-1bf0bf6e9e85.PNG)
 
